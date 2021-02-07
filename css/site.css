@@ -1,0 +1,14 @@
+html{
+  background-color: brown;
+
+}
+
+ul {
+  padding-top: 85px;
+
+}
+
+div#headshot {
+  float: right;
+  padding: 10px;
+}
