@@ -1,9 +1,11 @@
 html{
-  background-color: brown;
+  background-color: #946a00;
+  color: #ffeda6;
+  font-family: arial;
 
 }
 
-ul {
+nav#weekly-lab-assignments {
   padding-top: 85px;
 
 }
@@ -11,4 +13,7 @@ ul {
 div#headshot {
   float: right;
   padding: 10px;
+  margin: 10px;
+  border: double;
+
 }
