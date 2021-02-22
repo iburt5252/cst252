@@ -1,12 +1,12 @@
 html{
-  background-color: #946a00;
+  background-color: #592b0d;
 }
 
 div#header{
-  border: 5pt solid black;
+  border: 5pt double #FFD700;
   text-align: center;
-  background-color: white;
-  color: turquoise;
+  background-color: #592b0d;
+  color: #7FFF00;
 }
 
 h4{
@@ -15,12 +15,14 @@ h4{
 }
 
 div#chall{
-  border: 5pt solid black;
+  border: 5pt double #FFD700;
   margin-top: 70px;
-  max-width: 70%;
-  background-color: white;
+  max-width: 40%;
+  background-color: #592b0d;
   padding-left: 20px;
-  color: turquoise;
+  padding-right: 20px;
+  color: #7FFF00;
+  padding-bottom: 20pt
 }
 
 h1{
@@ -29,17 +31,19 @@ h1{
 }
 
 p1{
-  font-size: 16pt;
+  font-size: 12pt;
   font-family: proxima nova,sans-serif;
 }
 
 div#prob{
-  border: 5pt solid black;
+  border: 5pt double #FFD700;
   margin-top: 70px;
-  max-width: 70%;
-  background-color: white;
+  max-width: 40%;
+  background-color: #592b0d;
   padding-left: 20px;
-  color: turquoise;
+  padding-right: 20px;
+  color: #7FFF00;
+  padding-bottom: 20pt
 }
 
 h2{
@@ -52,29 +56,31 @@ h3{
 }
 
 p2{
-  font-size: 16pt;
+  font-size: 12pt;
   font-family: proxima nova,sans-serif;
 }
 
 div#result{
-  border: 5pt solid black;
+  border: 5pt double #FFD700;
   margin-top: 70px;
-  max-width: 70%;
-  background-color: white;
+  max-width: 40%;
+  background-color: #592b0d;
   padding-left: 20px;
-  color: turquoise;
+  padding-right: 20px;
+  color: #7FFF00;
+  padding-bottom: 20pt
 }
 
 p3{
-  font-size: 16pt;
+  font-size: 12pt;
   font-family: proxima nova,sans-serif;
 }
 
 div#codes{
-  border: 5pt solid black;
+  border: 5pt double #FFD700;
   max-width: 80%;
   margin-top: 70px;
-  background-color: white;
+  background-color: #592b0d;
 }
 
 pre{
