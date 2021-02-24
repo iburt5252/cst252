@@ -86,3 +86,13 @@ div#codes{
 pre{
   padding-left: 20px;
 }
+
+div#pic{
+  position:absolute;
+  right:0px;
+  top:315px;
+  float: right;
+  padding: 10px;
+  margin: 10px;
+  border: 5pt double #FFD700;
+}
