@@ -1,7 +1,7 @@
 function sortUserName() {
-  var userName = window.prompt(Hey there, whats your name? Can I fix it?);
+  var userName = window.prompt("Hey there, whats your name? Can I fix it?");
   console.log("userName =", userName);
-  var nameArray = "userName =", userName.split('');
+  var nameArray = userName.split('');
   console.log("nameArray -", nameArray);
   var nameArraySort = nameArray.sort();
   console.log("nameArraySort =", nameArraySort);
@@ -10,5 +10,4 @@ function sortUserName() {
   return nameSorted;
 }
 
-document.writeln("Oh look, its all better now: ",
-    sortUserName(), "</br>");
+document.write("Oh look, its all better now: " + sortUserName());
