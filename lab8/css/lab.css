@@ -1,0 +1,98 @@
+html{
+  background-color: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fw%2Fzi1udB&psig=AOvVaw2vf47cEcez91yxvbxzY8-a&ust=1614668399404000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOChs9rCju8CFQAAAAAdAAAAABAX);
+}
+
+div#header{
+  border: 5pt double #FFD700;
+  text-align: center;
+  background-color: #592b0d;
+  color: #7FFF00;
+}
+
+h4{
+  font-size: 45pt;
+  font-family: proxima nova ultrabold,sans-serif;
+}
+
+div#chall{
+  border: 5pt double #FFD700;
+  margin-top: 70px;
+  max-width: 40%;
+  background-color: #592b0d;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #7FFF00;
+  padding-bottom: 20pt
+}
+
+h1{
+  font-size: 22pt;
+  font-family: proxima nova ultrabold,sans-serif;
+}
+
+p1{
+  font-size: 12pt;
+  font-family: proxima nova,sans-serif;
+}
+
+div#prob{
+  border: 5pt double #FFD700;
+  margin-top: 70px;
+  max-width: 40%;
+  background-color: #592b0d;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #7FFF00;
+  padding-bottom: 20pt
+}
+
+h2{
+  font-size: 22pt;
+  font-family: proxima nova ultrabold,sans-serif;
+}
+h3{
+  font-size: 22pt;
+  font-family: proxima nova ultrabold,sans-serif;
+}
+
+p2{
+  font-size: 12pt;
+  font-family: proxima nova,sans-serif;
+}
+
+div#result{
+  border: 5pt double #FFD700;
+  margin-top: 70px;
+  max-width: 40%;
+  background-color: #592b0d;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #7FFF00;
+  padding-bottom: 20pt
+}
+
+p3{
+  font-size: 12pt;
+  font-family: proxima nova,sans-serif;
+}
+
+div#codes{
+  border: 5pt double #FFD700;
+  max-width: 80%;
+  margin-top: 70px;
+  background-color: #592b0d;
+}
+
+pre{
+  padding-left: 20px;
+}
+
+div#pic{
+  position:absolute;
+  right:0px;
+  top:315px;
+  float: right;
+  padding: 10px;
+  margin: 10px;
+  border: 5pt double #FFD700;
+}
