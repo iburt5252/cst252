@@ -23,4 +23,7 @@ outputEl.appendChild(new1El);
 outputEl.appendChild(new2El);
 
 new1El.style.color = "blue";
-outputEl.style.border = "dashed 1px red"
+outputEl.style.border = "solid 3px magenta";
+outputEl.style.backgroundColor = "darkGrey"
+outputEl.style.marginTop = "70px";
+outputEl.style.paddingLeft = "20px"

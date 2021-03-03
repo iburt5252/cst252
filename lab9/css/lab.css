@@ -1,0 +1,99 @@
+html{
+  background-image: url(https://i.pinimg.com/originals/a6/fb/22/a6fb2296d10c4a9369ee49a54cbc6964.jpg);
+}
+
+div#header{
+  border: 5pt double #FFD700;
+  text-align: center;
+  background-color: indigo;
+  color: #7FFF00;
+}
+
+h5{
+  font-size: 28pt;
+  font-family: proxima nova ultrabold,sans-serif;
+}
+
+div#chall{
+  border: 5pt double #FFD700;
+  margin-top: 70px;
+  max-width: 40%;
+  background-color: indigo;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #7FFF00;
+  padding-bottom: 20pt
+}
+
+h1{
+  font-size: 22pt;
+  font-family: proxima nova ultrabold,sans-serif;
+}
+
+p1{
+  font-size: 12pt;
+  font-family: proxima nova,sans-serif;
+}
+
+div#prob{
+  border: 5pt double #FFD700;
+  margin-top: 70px;
+  max-width: 40%;
+  background-color: indigo;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #7FFF00;
+  padding-bottom: 20pt
+}
+
+h2{
+  font-size: 22pt;
+  font-family: proxima nova ultrabold,sans-serif;
+}
+h3{
+  font-size: 22pt;
+  font-family: proxima nova ultrabold,sans-serif;
+}
+
+p2{
+  font-size: 12pt;
+  font-family: proxima nova,sans-serif;
+}
+
+div#result{
+  border: 5pt double #FFD700;
+  margin-top: 70px;
+  max-width: 40%;
+  background-color: indigo;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #7FFF00;
+  padding-bottom: 20pt
+}
+
+p3{
+  font-size: 12pt;
+  font-family: proxima nova,sans-serif;
+}
+
+div#codes{
+  border: 5pt double #FFD700;
+  max-width: 80%;
+  margin-top: 70px;
+  background-color: indigo;
+}
+
+pre{
+  padding-left: 20px;
+}
+
+div#pic{
+  position: absolute;
+  right :0px;
+  top: 250px;
+  float: right;
+  padding: 10px;
+  margin-top: 10px;
+  margin: 10px;
+  border: 5pt double #FFD700;
+}
