@@ -17,13 +17,16 @@ var new1El = document.createElement("p");
 new1El.innerHTML = "My name is Ish";
 
 var new2El = document.createElement("p");
-new2El.innerHTML = "I am new to Javascript";
+new2El.innerHTML = "I am new to JavaScript";
 
 outputEl.appendChild(new1El);
 outputEl.appendChild(new2El);
 
 new1El.style.color = "blue";
+new1El.style.fontSize = "22px";
+new2El.style.color = "blue";
+new2El.style.fontSize = "22px"
 outputEl.style.border = "solid 3px magenta";
-outputEl.style.backgroundColor = "darkGrey"
+outputEl.style.backgroundColor = "darkGrey";
 outputEl.style.marginTop = "70px";
-outputEl.style.paddingLeft = "20px"
+outputEl.style.paddingLeft = "20px";
