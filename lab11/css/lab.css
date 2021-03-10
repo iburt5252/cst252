@@ -1,0 +1,98 @@
+html{
+background-image: url("lab_img_grad.jp");
+}
+
+div#header{
+  border: 5pt double LightSkyBlue;
+  text-align: center;
+  background-color: RebeccaPurple;
+  color: Aqua;
+}
+
+h5{
+  font-size: 45pt;
+  font-family: proxima nova ultrabold,sans-serif;
+}
+
+div#chall{
+  border: 5pt double LightSkyBlue;
+  margin-top: 70px;
+  max-width: 40%;
+  background-color: RebeccaPurple;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: Aqua;
+  padding-bottom: 20pt
+}
+
+h1{
+  font-size: 22pt;
+  font-family: proxima nova ultrabold,sans-serif;
+}
+
+p1{
+  font-size: 12pt;
+  font-family: proxima nova,sans-serif;
+}
+
+div#prob{
+  border: 5pt double LightSkyBlue;
+  margin-top: 70px;
+  max-width: 40%;
+  background-color: RebeccaPurple;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: Aqua;
+  padding-bottom: 20pt
+}
+
+h2{
+  font-size: 22pt;
+  font-family: proxima nova ultrabold,sans-serif;
+}
+h3{
+  font-size: 22pt;
+  font-family: proxima nova ultrabold,sans-serif;
+}
+
+p2{
+  font-size: 12pt;
+  font-family: proxima nova,sans-serif;
+}
+
+div#result{
+  border: 5pt double LightSkyBlue;
+  margin-top: 70px;
+  max-width: 40%;
+  background-color: RebeccaPurple;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: Aqua;
+  padding-bottom: 20pt
+}
+
+p3{
+  font-size: 12pt;
+  font-family: proxima nova,sans-serif;
+}
+
+div#codes{
+  border: 5pt double LightSkyBlue;
+  max-width: 80%;
+  margin-top: 70px;
+  background-color: RebeccaPurple;
+}
+
+pre{
+  padding-left: 20px;
+}
+
+div#pic{
+  position:absolute;
+  right:0px;
+  top:315px;
+  float: right;
+  padding: 10px;
+  margin: 10px;
+  border: 5pt double LightSkyBlue;
+}
