@@ -1,0 +1,141 @@
+html{
+  background-color: Navy;
+
+}
+
+div#header{
+  border: 5pt double Blue;
+  text-align: center;
+  background-color: LightCyan;
+  color: Red;
+  max-height: 300px
+}
+
+h5{
+  font-size: 36pt;
+  font-family: proxima nova ultrabold,sans-serif;
+
+}
+
+div#chall{
+  border: 5pt double Blue;
+  margin-top: 70px;
+  max-width: 40%;
+  background-color: LightCyan;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: Red;
+  padding-bottom: 20pt;
+}
+
+h1{
+  font-size: 22pt;
+  font-family: proxima nova ultrabold,sans-serif;
+}
+
+p1{
+  font-size: 12pt;
+  font-family: proxima nova,sans-serif;
+}
+
+div#prob{
+  border: 5pt double Blue;
+  margin-top: 70px;
+  max-width: 40%;
+  background-color: LightCyan;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: Red;
+  padding-bottom: 20pt;
+}
+
+h2{
+  font-size: 22pt;
+  font-family: proxima nova ultrabold,sans-serif;
+}
+h3{
+  font-size: 22pt;
+  font-family: proxima nova ultrabold,sans-serif;
+}
+
+
+
+p2{
+  font-size: 12pt;
+  font-family: proxima nova,sans-serif;
+}
+
+div#result{
+  border: 5pt double Blue;
+  margin-top: 70px;
+  max-width: 40%;
+  background-color: LightCyan;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: Red;
+  padding-bottom: 20pt
+}
+
+p3{
+  font-size: 12pt;
+  font-family: proxima nova,sans-serif;
+}
+
+div#codes{
+  border: 5pt double Blue;
+  max-width: 80%;
+  margin-top: 70px;
+  background-color: LightCyan;
+}
+
+pre{
+  padding-left: 20px;
+}
+
+div#outputs{
+  border: 5pt solid Blue;
+  margin-top: 50px;
+  max-width: 50%;
+  background-color: Red;
+  padding: 30px;
+  color: LightCyan;
+}
+
+div#list{
+  border: 5pt double Blue;
+  margin-top: 20px;
+  max-width: 35%;
+  background-color: LightCyan;
+  text-align: center;
+  color: Red;
+  padding-right: 30pt;
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+  font-size: 16pt;
+  font-family: proxima nova ultrabold, sans-serif;
+  padding: 10px;
+
+}
+
+
+
+
+
+  img{
+    width: 25%;
+    height: 41%;
+
+  float: right;
+  margin-right: 20px;
+  margin-top: -500px;
+  }
+
+  h4{
+    font-size: 16pt;
+    font-family: proxima nova,sans-serif;
+  }
