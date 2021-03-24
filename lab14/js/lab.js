@@ -10,15 +10,15 @@ function Vehicle(make, model, year, color, extras, name){
   this.extras = extras;
   this.name = name;
   this.info = function() {
-    return this.color + " " + this.year + " " + this.make + " " + this.model + " with " + this.extras "called" + this.name ;
+    return this.color + " " + this.year + " " + this.make + " " + this.model + " with " + this.extras + " called " + this.name ;
   }
 }
 
 var vehicles = [];
 
-vehicles.push(new Vehicle("Can-am"," DS " , 2021, "orange and black", "LED Lights", "ATV"));
-vehicles.push(new Vehicle("GMC"," Yukon " , 2016, "choclate", "seat warmers", "Big Body Whip"));
-vehicles.push(new Vehicle("GMC"," Sierra " , 2014, "silver", "bed cover", "Truck Truck"));
+vehicles.push(new Vehicle("Can-am"," DS " , 2021 , "orange and black" , "LED Lights" , "The ATV"));
+vehicles.push(new Vehicle("GMC"," Yukon " , 2016 , "choclate", "seat warmers" , "The Big Body Whip"));
+vehicles.push(new Vehicle("GMC"," Sierra " , 2014 , "silver", "bed cover" , "The Truck Truck"));
 
 outputEl = document.getElementById("output")
 for (var i = 0; i<vehicles.length; i++) {
