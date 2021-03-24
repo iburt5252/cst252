@@ -1,12 +1,12 @@
 html{
-  background-color: Navy;
+  background-color: AliceBlue;
 
 }
 
 div#header{
-  border: 5pt double Blue;
+  border: 5pt dotted Yellow;
   text-align: center;
-  background-color: LightCyan;
+  background-color: RebeccaPurple ;
   color: Red;
   max-height: 300px
 }
