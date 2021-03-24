@@ -10,7 +10,7 @@ function Vehicle(make, model, year, color, extras, name){
   this.extras = extras;
   this.name = name;
   this.info = function() {
-    return this.color + " " + this.year + " " + this.make + " " + this.model + " with " + this.extras; "called" + this.name;
+    return this.color + " " + this.year + " " + this.make + " " + this.model + " with " + this.extras "called" + this.name ;
   }
 }
 
