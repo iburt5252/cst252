@@ -1,13 +1,13 @@
 html{
-   background: linear-gradient(to top, #ff0000 0%, #993333 77%);
+   background: linear-gradient(to bottom, #99ccff 17%, #ff9966 93%);
 
 }
 
 div#header{
-  border: 5pt double 	#A9A9A9;
+  border: 5pt double yellow;
   text-align: center;
-  background-color: #505050;
-  color: #CCFF00;
+  background-color: black;
+  color: #ffff99;
   max-height: 300px
 }
 
@@ -18,13 +18,13 @@ h5{
 }
 
 div#chall{
-  border: 8pt dashed 	#A9A9A9;
+  border: 5pt double yellow;
   margin-top: 70px;
   max-width: 40%;
-  background-color: #505050;
+  background-color: black;
   padding-left: 20px;
   padding-right: 20px;
-  color: #CCFF00;
+  color: #ffff99;
   padding-bottom: 20pt;
 }
 
@@ -39,13 +39,13 @@ p1{
 }
 
 div#prob{
-  border: 8pt dashed 	#A9A9A9;
+  border: 5pt double yellow;
   margin-top: 70px;
   max-width: 40%;
-  background-color: #505050;
+  background-color: black;
   padding-left: 20px;
   padding-right: 20px;
-  color: #CCFF00;
+  color: #ffff99;
   padding-bottom: 20pt;
 }
 
@@ -66,13 +66,13 @@ p2{
 }
 
 div#result{
-  border: 8pt dashed 	#A9A9A9;
+  border: 5pt double yellow;
   margin-top: 70px;
   max-width: 40%;
-  background-color: #505050;
+  background-color: black;
   padding-left: 20px;
   padding-right: 20px;
-  color: #CCFF00;
+  color: #ffff99;
   padding-bottom: 20pt
 }
 
@@ -82,10 +82,10 @@ p3{
 }
 
 div#codes{
-  border: 8pt dashed 	#A9A9A9;
+  border: 10pt double yellow;
   max-width: 80%;
   margin-top: 70px;
-  background-color: #505050;
+  background-color: black;
 }
 
 pre{
@@ -93,19 +93,19 @@ pre{
 }
 
 div#outputs{
-  border: 5pt solid #CCFF00;
+  border: 8pt dashed yellow;
   margin-top: 20px;
   max-width: 50%;
-  background-color: #505050;
+  background-color: black;
   padding: 30px;
   color: Aqua;
 }
 
 div#list{
-  border: 8pt dashed 	#A9A9A9;
+  border: 5pt double yellow;
   margin-top: 20px;
   max-width: 35%;
-  background-color: #505050;
+  background-color: black;
   text-align: center;
   color: Red;
   padding-right: 30pt;
