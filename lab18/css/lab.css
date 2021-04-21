@@ -1,2 +1,29 @@
-html{
-  background-color: LightSteelBlue;
+body{
+  background-color: grey;
+}
+div.col{
+  padding: 20px;
+  border: 12pt solid white;
+}
+
+.h2, h2{
+  font-size: 4rem;
+  color: white;
+  font-family: proxima nova ultrabold, sans-serif;
+}
+p{
+  font-size: 2rem;
+  font-family: proxima nova, sans-serif;
+
+}
+h1{
+  font-family: proxima nova ultrabold, sans-serif;
+  font-size: 8rem;
+  color: white;
+}
+
+li {
+  font-family: : proxima nova ultrabold, sans-serif;
+  font-size: 4rem;
+  color: black;
+}
