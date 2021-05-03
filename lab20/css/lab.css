@@ -1,6 +1,5 @@
 html{
-background-image: linear-gradient(orange, yellow, blue, yellow, orange);
-
+  background-color: linear-gradient(orange, yellow, blue, yellow, orange);
 }
 
 div#header{
