@@ -1,5 +1,5 @@
-html{
-  background-color: linear-gradient(orange, yellow, blue, yellow, orange);
+div {
+    background: linear-gradient(to bottom, #ffff00 0%, #66ffcc 100%);
 }
 
 div#header{
