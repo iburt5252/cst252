@@ -1,6 +1,5 @@
-
 html{
-   background: linear-gradient(to bottom, #99ccff 17%, #ff9966 93%);
+background-image: linear-gradient(orange, yellow, blue, yellow, orange);
 
 }
 
@@ -111,18 +110,19 @@ p3{
   padding: 10px;
 }
 
+button{
+  background: black;
+  color: white;
+  font-family: proxima nova  ultrabold, sans-serif;
+  font-size: 20pt;
+  margin: 10px;
 
-
-
-
-img{
-  width: 25%;
-  height: 41%;
-
-float: right;
-margin-right: 20px;
-margin-top: -500px;
 }
+
+
+
+
+
 
 h4{
   font-size: 16pt;
