@@ -8,7 +8,7 @@ var URL = "https://xkcd.com/info.0.json";
 var URLpre = "https://xkcd.com/";
 var URLpost = "info.0.json";
 
-// Endpoint format: http://xkcd.com/614/info.0.json
+// Endpoint format: http://xkcd.com/614/info.0.json 
 
 function getComic(num) {
   if (typeof num === 'undefined') {
