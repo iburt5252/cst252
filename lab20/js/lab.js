@@ -1,5 +1,5 @@
 
-// Author Ish B / Nick R//
+//Author Ish B/Nick R//
 //Created 5-2-2021//
 //License: Public Domain//
 
