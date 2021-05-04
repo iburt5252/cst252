@@ -3,7 +3,7 @@
 //Created 4-13-2021//
 //License: Public Domain//
 
-var URL = "https://xkcd.com/info.0.json";
+var URL = "http://xkcd.com/info.0.json";
 
 var URLpre = "https://xkcd.com/";
 var URLpost = "info.0.json";
